@@ -2,7 +2,7 @@
     "name": "magento/module-sales-sample-data-venia",
     "description": "N/A",
     "require": {
-        "magento/module-sample-data-venia": "dev-master",
+        "magento/module-catalog-sample-data-venia": "dev-master",
         "magento/module-configurable-sample-data-venia": "dev-master"
     },
     "type": "magento2-module",
