@@ -1,0 +1,22 @@
+{
+    "name": "magento/module-sales-sample-data-venia",
+    "description": "N/A",
+    "require": {
+        "magento/module-sample-data-venia": "dev-master",
+        "magento/module-configurable-sample-data-venia": "dev-master"
+    },
+    "type": "magento2-module",
+    "version": "100.2.1",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "Magento\\SalesSampleDataVenia\\": ""
+        }
+    }
+}
