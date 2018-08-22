@@ -1,0 +1,3 @@
+customer_email,currency,shipping_method,payment,product,refund
+"roni_cost@example.com",USD,"flatrate_flatrate",checkmo,"{""sku"":""VT11"",""qty"":""1"",""configurable_options"":{""fashion_size"":""L"",""fashion_color"":""Lilac""}}",no
+"roni_cost@example.com",USD,"flatrate_flatrate",checkmo,"{""sku"":""VT12"",""qty"":""1"",""configurable_options"":{""fashion_size"":""XS"",""fashion_color"":""Peach""}}",yes

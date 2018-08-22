@@ -1,0 +1,1 @@
+Magento_SalesSampleDataVenia module consists of installation scripts and fixtures for installing Venia sample orders.

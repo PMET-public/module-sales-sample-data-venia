@@ -2,8 +2,10 @@
     "name": "magento/module-sales-sample-data-venia",
     "description": "N/A",
     "require": {
-        "magento/module-catalog-sample-data-venia": "dev-master",
-        "magento/module-configurable-sample-data-venia": "dev-master"
+        "magento/module-catalog-sample-data-venia": "*",
+        "magento/module-configurable-sample-data-venia": "*",
+        "magento/module-customer-sample-data-venia": "*",
+        "magento/module-tax-sample-data-venia": "*"
     },
     "type": "magento2-module",
     "version": "100.2.1",
